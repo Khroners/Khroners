@@ -22,10 +22,13 @@
 ### Knowledges:
 [<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/e70978f8e07f54f959d68fd625c37846c33f6576/images/icons/veeam.svg" />][Windows]
 [<img align="left" alt="Zabbix" width="50px" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />][Zabbix]
+[<img align="left" alt="Grafana" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/75f36a6e65eec93dea4b725335e167c734ea6b59/images/icons/grafana%20(1).svg" />][Grafana]
 [<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/621ea89174284bee13392549683d327a7ee9c3ff/images/icons/docker%20(1).svg" />][Docker]
-[<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/e70978f8e07f54f959d68fd625c37846c33f6576/images/icons/veeam.svg" />][Windows]
-[<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/e70978f8e07f54f959d68fd625c37846c33f6576/images/icons/veeam.svg" />][Windows]
-[<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/e70978f8e07f54f959d68fd625c37846c33f6576/images/icons/veeam.svg" />][Windows]
+[<img align="left" alt="Traefik" width="50px" src="https://github.com/Khroners/Khroners/blob/main/images/icons/traefik.png?raw=true" />][Traefik]
+[<img align="left" alt="VMware" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/75f36a6e65eec93dea4b725335e167c734ea6b59/images/icons/vmware%20(1).svg" />][VMware]
+[<img align="left" alt="Cisco" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/75f36a6e65eec93dea4b725335e167c734ea6b59/images/icons/cisco%20(1).svg" />][Cisco]
+[<img align="left" alt="Linux" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/75f36a6e65eec93dea4b725335e167c734ea6b59/images/icons/linux%20(1).svg" />][Linux]
+[<img align="left" alt="Synology" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/75f36a6e65eec93dea4b725335e167c734ea6b59/images/icons/synology%20(1).svg" />][Synology]
 
 <br />
 
@@ -48,3 +51,13 @@
 [twitter]: https://twitter.com/Khronerss
 [linkedin]: https://www.linkedin.com/in/alexis-bonnet-396739185
 [rss]: https://rss.khroners.fr
+[Grafana]: https://docs.khroners.fr/search?term=grafana
+[Docker]: https://docs.khroners.fr/search?term=docker
+[Zabbix]: https://docs.khroners.fr/search?term=zabbix
+[Traefik]: https://docs.khroners.fr/books/traefik-reverse-proxy-et-portainer/page/traefik-avec-a-sur-ssl-labs-et-les-headers
+[Veeam]: https://docs.khroners.fr/search?term=veeam
+[Windows]: https://docs.khroners.fr/shelves/windows
+[VMware]: https://docs.khroners.fr/books/vmware
+[Cisco]: https://docs.khroners.fr/books/cisco
+[Linux]: https://docs.khroners.fr/shelves/linux
+[Synology]: https://docs.khroners.fr/books/synology
