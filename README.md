@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novarotem-khroners.vercel.app/api/spotify)](https://open.spotify.com/user/11179009124?si=b49c4aeb379d473c)
+[![Spotify](https://novatorem-khroners.vercel.app/api/spotify)](https://open.spotify.com/user/11179009124?si=b49c4aeb379d473c)
 
 ### Connect with me:
 
