@@ -1,4 +1,4 @@
-### Hi there, I'm Alexis - aka [Khroners][website] 👋
+### Hi there, I'm Alexis - a.k.a [Khroners][website] 👋
 
 ## I'm a Student, Sysadmin, who love to share my knowledge !
 
@@ -25,10 +25,10 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 
 <br />
-<br />
 
 ---
 
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#25](https://github.com/novatorem/novatorem/issues/25) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
 2. 💪 Opened PR [#29](https://github.com/novatorem/novatorem/pull/29) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
