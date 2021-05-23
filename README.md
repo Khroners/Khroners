@@ -33,12 +33,8 @@
 
 
 ---
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Khroners's GitHub Stats" src="https://github-readme-stats-khroners.vercel.app/api?username=Khroners&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://alexisbonnet.fr
 [documentation]: https://docs.khroners.fr
