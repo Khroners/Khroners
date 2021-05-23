@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning everything 📚
 - 🥅 2021 Goals: Learn more, more and more !
 - ⚡ Fun fact: I love Metal music 🤘 and History 📖
+- 📚 Owner of <a href="https://docs.khroners.fr">Khroners Documentation</a> | Contributor of <a href="https://wiki-tech.io">Wiki-Tech.io</a>
+- 💻 Certified member of the Discord server <a href="https://discord.gg/informatique">Entraide Informatique - Capetlevrai</a>
+- 🎯 Work/study training program in order to become a full time Sysadmin
 
 ### Spotify Playing 🎧
 
@@ -19,6 +22,7 @@
 
 <br />
 
+
 ### Knowledges:
 [<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/e70978f8e07f54f959d68fd625c37846c33f6576/images/icons/veeam.svg" />][Windows]
 [<img align="left" alt="Zabbix" width="50px" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />][Zabbix]
@@ -30,6 +34,7 @@
 [<img align="left" alt="Linux" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/75f36a6e65eec93dea4b725335e167c734ea6b59/images/icons/linux%20(1).svg" />][Linux]
 [<img align="left" alt="Synology" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/75f36a6e65eec93dea4b725335e167c734ea6b59/images/icons/synology%20(1).svg" />][Synology]
 
+<br />
 <br />
 
 ---
@@ -61,3 +66,4 @@
 [Cisco]: https://docs.khroners.fr/books/cisco
 [Linux]: https://docs.khroners.fr/shelves/linux
 [Synology]: https://docs.khroners.fr/books/synology
+[wiki-tech]: https://wiki-tech.io/
