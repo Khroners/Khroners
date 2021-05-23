@@ -16,6 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Khroners | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Khroners | Bookstack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/bookstack.svg" />][documentation]
 [<img align="left" alt="Khroners | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Khroners | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Khroners | RSS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rss.svg" />][rss]
