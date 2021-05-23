@@ -2,9 +2,9 @@
 
 ## I'm a Student, Sysadmin, who love to share my knowledge !
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn more, more and more
-- ⚡ Fun fact: I love Metal music and History
+- 🌱 I’m currently learning everything 📚
+- 🥅 2021 Goals: Learn more, more and more !
+- ⚡ Fun fact: I love Metal music 🤘 and History 📖
 
 ### Spotify Playing 🎧
 
