@@ -20,9 +20,12 @@
 <br />
 
 ### Knowledges:
-[<img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/windows.svg" fill="green" />][Windows]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/e70978f8e07f54f959d68fd625c37846c33f6576/images/icons/veeam.svg" />][Windows]
+[<img align="left" alt="Zabbix" width="50px" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg" />][Zabbix]
+[<img align="left" alt="Docker" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/621ea89174284bee13392549683d327a7ee9c3ff/images/icons/docker%20(1).svg" />][Docker]
+[<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/e70978f8e07f54f959d68fd625c37846c33f6576/images/icons/veeam.svg" />][Windows]
+[<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/e70978f8e07f54f959d68fd625c37846c33f6576/images/icons/veeam.svg" />][Windows]
+[<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/Khroners/Khroners/e70978f8e07f54f959d68fd625c37846c33f6576/images/icons/veeam.svg" />][Windows]
 
 <br />
 
