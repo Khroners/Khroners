@@ -42,9 +42,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/novatorem/novatorem/issues/25) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
-2. 💪 Opened PR [#29](https://github.com/novatorem/novatorem/pull/29) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
-3. 🗣 Commented on [#26](https://github.com/novatorem/novatorem/issues/26) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+1. 🗣 Commented on [#1232](https://github.com/alexanderzobnin/grafana-zabbix/issues/1232) in [alexanderzobnin/grafana-zabbix](https://github.com/alexanderzobnin/grafana-zabbix)
+2. 🗣 Commented on [#25](https://github.com/novatorem/novatorem/issues/25) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
+3. 💪 Opened PR [#29](https://github.com/novatorem/novatorem/pull/29) in [novatorem/novatorem](https://github.com/novatorem/novatorem)
 <!--END_SECTION:activity-->
 
 
